@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 23 17:00:34 2020
-
-@author: ngmingpok
-"""
 #Find the largest palindrome made from the product of two 3-digit numbers.
 def palindrome():
     num = []
