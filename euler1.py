@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 22 12:15:57 2020
-
-@author: ngmingpok
-"""
 #Find the sum of all the multiples of 3 or 5 below 1000.
 def f():
     x = 0
