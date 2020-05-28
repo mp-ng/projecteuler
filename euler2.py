@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 22 12:40:56 2020
-
-@author: ngmingpok
-"""
 #Find the sum of even-valued Fibonacci terms that do not exceed 4 million.
 def fib():
     x = 1
