@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 22 12:51:27 2020
-
-@author: ngmingpok
-"""
 import math
 #Find the largest prime factor of the number 600851474143.
 def getFactor(number):
